@@ -1,0 +1,1 @@
+cp /desk/syabbs.war /tomcat/webapps/

@@ -1,1 +1,0 @@
-cp /desk/*.war /tomcat/webapps/
