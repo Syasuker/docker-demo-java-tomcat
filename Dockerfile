@@ -7,4 +7,4 @@ ADD cp_war.sh /cp_war.sh
 
 RUN chmod +x /*.sh
 
- CMD ["/cp_war.sh"]
+CMD ["/cp_war.sh"]
